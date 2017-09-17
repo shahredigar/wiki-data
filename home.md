@@ -8,4 +8,4 @@
 
 **سپس ایمل، نام و نام خانوادگی (ترجیحا به فارسی) گذرواژه و سایر اطلاعات خواسته شده را وارد کنید. توجه داشته باشید که آدرس ایمیل خود را حتما درست وارد کنید.**
 
-![اینطوری](https://docs.shahredigar.ir/uploads/signup/enter-info.png|medium)
+![اینطوری](https://docs.shahredigar.ir/uploads/signup/enter-info.png)
