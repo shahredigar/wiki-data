@@ -15,4 +15,5 @@
 ![اینطوری](https://docs.shahredigar.ir/uploads/signup/register-success.png)
 
 **در صورت موفقیت آمیز بودن روند ثبت نام، ایمیلی مشابه ایمیل زیر دریافت خواهید کرد. در صورتی که چنین ایمیلی دریافت نکردید، حتما پوشه اسپم ایمیلتان را وارسی کنید.**
-[اینطوری](https://docs.shahredigar.ir/uploads/signup/register-email.png)
+
+![اینطوری](https://docs.shahredigar.ir/uploads/signup/register-email.png)
